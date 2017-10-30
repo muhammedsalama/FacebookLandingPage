@@ -1,0 +1,152 @@
+body{
+    background-color: #e6e6e6;
+}
+
+.FBPage .header{
+    width:100%;
+    height:85px;
+    background-color: #4267b2;
+
+}
+.sign-in{
+    float: right;
+    position:relative;
+}
+.color-white{
+    color: #fff;
+}
+.face{
+    font-size: 43px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.face-link{
+
+}
+.scnd-lbl{
+    margin-left: 92px;
+    font-size: 14px;
+    font-family:inherit;
+    font-weight: 400;
+    position: relative;
+}
+.frst-lbl{
+    margin-left: 12px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family:inherit;
+}
+.logo{
+    margin: 15px 50px;
+}
+.sign-in{
+    margin-top: 5px;
+}
+.submit{
+    color: #ffffff;
+    background-color: #0066CC;
+    border:none;
+    border: 1px solid #000000;
+    display: inline-block;
+}
+.submit:hover{
+    background-color:#4267b2;
+}
+.forgt-pass{
+    color: #9cb4d8;
+
+}
+.forgt-pass:hover{
+    color: #9cb4d8;
+}
+.input{
+    padding: 0;
+    border: 1px solid #000000;
+    margin-left: 10px;
+}
+.close{
+    z-index: 3;
+    color: #fff;
+    float: left;
+    margin-top: 5px;
+    position: absolute;
+}
+.card-block{
+    background-color: #fff;
+    padding: 10px 15px;
+    width: 150px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #555555;
+    font-size: 17px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.left-side{
+    margin-left: 50px;
+    margin-top: -118%;
+    position: absolute;
+}
+.recent-h{
+    font-weight: bold;
+}
+.recent-p{
+    font-size: 16px;
+}
+.card-img-top{
+    border:1px solid inherit;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.create-account{
+    margin-left: 20%;
+}
+.inp{
+    margin-bottom: 10px;
+    border:1px solid #cccccc;
+}
+#sur{
+    /*margin-left: 10px;
+*/}
+.form{
+    margin-top: 30px;
+}
+.regular{
+    /*width: 210px;*/
+}
+.select{
+    padding:5px;
+}
+.male{
+    margin-top: 12px;
+}
+.female{
+    margin-bottom: 12px;
+}
+.terms{
+    font-size: 12px;
+    font-weight: inherit;
+    color: #687b7c;
+}
+.terms a{
+    text-decoration: none;
+    color: #1c699d;
+}
+.create-btn{
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    padding:6px 30px;
+    color: #ffffff;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+.create-btn:hover{
+    background: linear-gradient(#67ae55, #578843);
+}
